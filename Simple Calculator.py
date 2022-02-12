@@ -1,4 +1,4 @@
-# Building a Simple Calculator using Tkinter
+# Building a Simple Calculator using Tkinter in Python
 
 from tkinter import *
 
